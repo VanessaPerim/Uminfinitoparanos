@@ -1,0 +1,64 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    background-color: #f6c1a6;
+    color: #3a2a2a;
+}
+
+header {
+    background: #2f3a56;
+    padding: 20px;
+    color: #fff;
+}
+
+nav a {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.hero {
+    display: flex;
+    padding: 40px;
+    gap: 30px;
+}
+
+.hero img {
+    width: 300px;
+    border-radius: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #2f3a56;
+    color: #fff;
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button.secundario {
+    background: #7a4a3a;
+}
+
+section {
+    padding: 40px;
+}
+
+.personagens {
+    background: #f8d2bd;
+}
+
+.card {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    background: #2f3a56;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
