@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #2f3a56;
+    background: #223053;
     padding: 20px;
     color: #fff;
 }
@@ -46,7 +46,7 @@ section {
 }
 
 .personagens {
-    background: #f8d2bd;
+    background: #eeba9e;
 }
 
 .card {
@@ -56,9 +56,11 @@ section {
     border-radius: 8px;
 }
 
-footer {
-    background: #2f3a56;
+footer .redes a hover {
+    transform: scale(1.15);
     color: #fff;
-    text-align: center;
-    padding: 20px;
+    font-size: 28px;
+    margin: 0 12px;
+    transition: 0.3s;
 }
+
