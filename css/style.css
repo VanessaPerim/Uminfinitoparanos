@@ -59,7 +59,7 @@ section {
 footer .redes a hover {
     transform: scale(1.15);
     color: #fff;
-    font-size: 28px;
+    font-size: 36px;
     margin: 0 12px;
     transition: 0.3s;
 }
